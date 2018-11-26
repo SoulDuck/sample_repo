@@ -2,5 +2,13 @@
 
 
 # Dataset Info
-# 119 Breed
+
+### classes : 119
+### total Image : 20220
+
 ![Image sample](./pic/image_sample.png)
+
+
+# Analysis
+# Graph
+![Image sample](./pic/analysis.png)
