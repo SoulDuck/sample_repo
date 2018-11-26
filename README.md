@@ -17,7 +17,9 @@
 
 ![Image sample](./pic/image_sample.png)
 
-
-# Analysis
-# Graph
+# Model Graph
 ![Image sample](./pic/analysis.png)
+
+#
+# Accuracy & Loss
+![Image sample](./pic/acc_graph.png)
